@@ -4,12 +4,14 @@
 \Barcodes From Image (VB.NET)
 \Barcodes From PDF (C#)
 \Barcodes From PDF (VB.NET)
+\Batch Read Barcodes To CSV
 \General Example (C#)
 \General Example (VB.NET)
 \Read From Live Camera (C# - MVC)
 \Read From Live Camera (C#)
 \Split PDF by Barcode (C#)
 \_Web API
+\Batch Read Barcodes To CSV\BarcodeFiles
 \_Web API\C#
 \_Web API\VB.NET
 \_Web API\C#\Read Barcode From Uploaded File
